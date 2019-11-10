@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Nueva propiedad",
+      "price": 4000000,
+      "description": "Llevar la propiedad de inversión al valor razonable o al costo, no es discrecional, en caso de no medirse al valor razonable, debe tenerse el soporte conforme por qué hay un esfuerzo desproporcionado para desarrollar la medición y está debería estar aceptada por la revisoría fiscal. ",
+      "thumbnail": "https://images.adsttc.com/media/images/5d8b/9878/284d/d1d3/0f00/01e7/medium_jpg/IDMA_CASARAIZ.jpg?1569429613"
+    },
+    {
+      "id": 2,
+      "name": "Nueva propiedad",
+      "price": 4000000,
+      "description": "Llevar la propiedad de inversión al valor razonable o al costo, no es discrecional, en caso de no medirse al valor razonable, debe tenerse el soporte conforme por qué hay un esfuerzo desproporcionado para desarrollar la medición y está debería estar aceptada por la revisoría fiscal. ",
+      "thumbnail": "https://images.adsttc.com/media/images/5d8b/9878/284d/d1d3/0f00/01e7/medium_jpg/IDMA_CASARAIZ.jpg?1569429613"
+    },
+    {
+      "id": 3,
+      "name": "Nueva propiedad",
+      "price": 4000000,
+      "description": "Llevar la propiedad de inversión al valor razonable o al costo, no es discrecional, en caso de no medirse al valor razonable, debe tenerse el soporte conforme por qué hay un esfuerzo desproporcionado para desarrollar la medición y está debería estar aceptada por la revisoría fiscal. ",
+      "thumbnail": "https://images.adsttc.com/media/images/5d8b/9878/284d/d1d3/0f00/01e7/medium_jpg/IDMA_CASARAIZ.jpg?1569429613"
+    },
+    {
+      "id": 4,
+      "name": "Nueva propiedad",
+      "price": 4000000,
+      "description": "Llevar la propiedad de inversión al valor razonable o al costo, no es discrecional, en caso de no medirse al valor razonable, debe tenerse el soporte conforme por qué hay un esfuerzo desproporcionado para desarrollar la medición y está debería estar aceptada por la revisoría fiscal. ",
+      "thumbnail": "https://images.adsttc.com/media/images/5d8b/9878/284d/d1d3/0f00/01e7/medium_jpg/IDMA_CASARAIZ.jpg?1569429613"
+    },
+    {
+      "id": 5,
+      "name": "Nueva propiedad",
+      "price": 4000000,
+      "description": "Llevar la propiedad de inversión al valor razonable o al costo, no es discrecional, en caso de no medirse al valor razonable, debe tenerse el soporte conforme por qué hay un esfuerzo desproporcionado para desarrollar la medición y está debería estar aceptada por la revisoría fiscal. ",
+      "thumbnail": "https://images.adsttc.com/media/images/5d8b/9878/284d/d1d3/0f00/01e7/medium_jpg/IDMA_CASARAIZ.jpg?1569429613"
+    }
+    ]
+}
